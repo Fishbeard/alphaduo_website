@@ -1,0 +1,7 @@
+#top-nav{
+  padding-top: 10px;
+}
+
+.navbar-item img {
+  max-height: 2.5rem !important;
+}
